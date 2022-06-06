@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P07_PS</string>
+
+    <string-array name="spinnerItems">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+
+    <string name="addBtn">ADD</string>
+    <string name="dltBtn">DELETE</string>
+    <string name="clrBtn">CLEAR</string>
+
+</resources>
